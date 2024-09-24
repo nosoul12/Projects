@@ -1,0 +1,1 @@
+ C:\\Paid_Projects\\project_1\\student_1\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_en.dart C:\\Paid_Projects\\project_1\\student_1\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart:  C:\\Paid_Projects\\project_1\\student_1\\l10n.yaml C:\\Paid_Projects\\project_1\\student_1\\lib/src/localization\\app_en.arb

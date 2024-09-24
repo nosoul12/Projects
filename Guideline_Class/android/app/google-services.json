@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322158660315",
+    "project_id": "guidleline-classes",
+    "storage_bucket": "guidleline-classes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322158660315:android:08f2b91643c48f208a5afe",
+        "android_client_info": {
+          "package_name": "com.yash.student_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbB8QGIXZaYgssxo_hgTdFsB3M-HiOZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322158660315:android:a4885b799e919a3f8a5afe",
+        "android_client_info": {
+          "package_name": "student.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbB8QGIXZaYgssxo_hgTdFsB3M-HiOZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
